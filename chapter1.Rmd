@@ -14,4 +14,10 @@ date()
 The text continues here.
 It is really nice to participate of this course. I hope I will abble to properly of this Software in my research 
 
+<<<<<<< HEAD
 https://github.com/Mokbu/IODS-project
+=======
+####################
+It really interesting and feel enthusiasm to learn R which can be efffective for my research work even in future work
+https://github.com/Mokbu/IODS-project/blob/master/chapter1.Rmd
+>>>>>>> d76c7930de2cdf15ab25f142645459807af01929
