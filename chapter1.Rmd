@@ -3,6 +3,8 @@
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
 
+updated 
+https://mokbu.github.io/IODS-project/
 
 
 ```{r}
@@ -16,6 +18,9 @@ It is really nice to participate of this course. I hope I will able to properly 
 i have found this course link from UEF
 
 <<<<<<< HEAD
+cpurse dairy 
+https://mokbu.github.io/IODS-project/
+
 https://github.com/Mokbu/IODS-project
 =======
 ####################
