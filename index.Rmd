@@ -1,6 +1,6 @@
 ---
-title: Mokbul Hossain  
-output:
+title: IODS-project  
+Author:Mokbul Hossain
   html_document:
     theme: cosmo
     toc: true
