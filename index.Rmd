@@ -1,7 +1,7 @@
 ---
 title: IODS-project  
 Author:Mokbul Hossain
-  html_document:
+  html_document:exercise 2
     theme: cosmo
     toc: true
     toc_depth: 2
@@ -9,7 +9,8 @@ Author:Mokbul Hossain
     fig_width: 6
     fig_height: 4
 ---
-
+Exercise 2
+date 15.11.2021
 *** 
 
 # Introduction to Open Data Science - Course Project
