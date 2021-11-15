@@ -1,0 +1,3 @@
+lrn14 <- read.table("https://www.mv.helsinki.fi/home/kvehkala/JYTmooc/JYTOPKYS3-data.txt",sep = "\t", header = TRUE)
+dim(lrn14)
+str(lrn14)
